@@ -173,3 +173,12 @@ $(".r").on("click",function(){
 $(".vu").on("click",function(){
   window.location = "visitus.html"
 })
+$(".aalaap").on("click",function(){
+  window.open = "programs_reports/aalaap.pdf"
+})
+$(".hrtc").on("click",function(){
+  window.location = "http://hrtc.gov.in/hrtctickets/"
+})
+$(".irctc").on("click",function(){
+  window.location = "https://www.irctc.co.in/eticketing/loginHome.jsf"
+})
